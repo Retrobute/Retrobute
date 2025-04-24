@@ -39,5 +39,5 @@
 <div align="center">
  <span align="right" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohoolateSen&layout=donut-vertical&theme=react"/></span>
  <span align="left"><img src="https://github-readme-stats.vercel.app/api?username=KohoolateSen&show_icons=true&theme=react"/></span>
- <span align="left" ><img src="https://streak-stats.demolab.com/?user=KohoolateSen&theme=react"/></span>
+ <span align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=KohoolateSen&theme=react&hide_border=false"/></span>
 </div>
