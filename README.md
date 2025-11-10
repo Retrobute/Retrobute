@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **RustedCobalt@gmail.com**
 
-- ⚡ Fun fact **did you know systemd has got it's own BSOD ?**
+- ⚡ Fun fact **did you know systemd has got its own BSOD ?**
 
 <h2>
   <img src="https://media.tenor.com/lA3wbS4JUPQAAAAi/minecraft-diamante.gif" width="35em" height="40em">
