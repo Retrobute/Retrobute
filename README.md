@@ -2,7 +2,7 @@
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=1000&color=00fffa&background=07002D00&center=true&vCenter=true&random=false&width=600&height=40&lines=Hi+There+!+%F0%9F%91%8B;I'm+Sadra+!" alt="Typing SVG" />
 
 <div>
-  <h3 align="center">A passionate Developer & Computer Networking enthusiast from Iran</h3>
+  <h3 align="center">A passionate developer & computer networking enthusiast from Iran</h3>
 </div>
 </br>
 <h2>
@@ -29,7 +29,7 @@
   Trophies :
 </h2>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=KohoolateSen&theme=algolia" alt="TheRetromancer"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Retrobute&theme=algolia" alt="TheRetromancer"/></p>
      
 <h2>
  <img src="https://media.tenor.com/F7Y9A0SWAUcAAAAi/goal-circle.gif" width="46em" height="46em"/>
@@ -37,7 +37,7 @@
 </h2>
 
 <div align="center">
- <span align="right" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohoolateSen&layout=donut-vertical&theme=react"/></span>
- <span align="left"><img src="https://github-readme-stats.vercel.app/api?username=KohoolateSen&show_icons=true&theme=react"/></span>
+ <span align="right" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retrobute&layout=donut-vertical&theme=react"/></span>
+ <span align="left"><img src="https://github-readme-stats.vercel.app/api?username=Retrobute&show_icons=true&theme=react"/></span>
  <span align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=KohoolateSen&theme=react&hide_border=false"/></span>
 </div>
