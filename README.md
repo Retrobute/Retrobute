@@ -29,7 +29,7 @@
   Trophies :
 </h2>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Retrobute&theme=algolia" alt="TheRetromancer"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Retrobute&theme=algolia" alt=""/></p>
      
 <h2>
  <img src="https://media.tenor.com/F7Y9A0SWAUcAAAAi/goal-circle.gif" width="46em" height="46em"/>
